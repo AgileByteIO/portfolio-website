@@ -1,6 +1,6 @@
 
 
-# I needed a quick profile
+# Profile in nextjs
 
 ## Setup
 
