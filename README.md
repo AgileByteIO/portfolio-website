@@ -1,5 +1,3 @@
-
-
 # Profile in nextjs
 
 ## Setup
